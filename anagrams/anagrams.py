@@ -12,7 +12,6 @@ obir obri oibr oirb orbi orib
 
 
 """
-from math import factorial
 
 import itertools
 
